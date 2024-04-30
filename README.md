@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
-🔭 I am currently working on my Diploma Thesis
-📫 You can reach me by email at dimitris@cs.uoi.gr
+<p> 🔭 I am currently working on my Diploma Thesis
+<p> 📫 You can reach me by email at dimitris@cse.uoi.gr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtsiap&label=Profile%20views&color=0e75b6&style=flat" alt="dtsiap" /> </p>
 
