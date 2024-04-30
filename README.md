@@ -3,6 +3,8 @@
 🔭 I am currently working on my Diploma Thesis
 📫 You can reach me by email at dimitris@cs.uoi.gr
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dtsiap&label=Profile%20views&color=0e75b6&style=flat" alt="dtsiap" /> </p>
+
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dtsiap&show_icons=true&theme=algolia&locale=en&layout=compact" alt="dtsiap"/></p>
 
