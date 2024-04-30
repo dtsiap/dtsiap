@@ -10,6 +10,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtsiap&show_icons=true&theme=algolia&locale=en" alt="dtsiap" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dtsiap&label=Profile%20views&color=0e75b6&style=flat" alt="dtsiap" /> </p>
+
 <!--
 **dtsiap/dtsiap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
